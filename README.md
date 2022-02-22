@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @waruks
-- 👀 I’m interested in programming and music production
+- 👀 I’m interested in coding.
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on projects that involve music and entertainment.
+- 💞️ I’m looking to collaborate on projects that involve entertainment.
 - 📫 You can reach me via email : wachiraf65@gmail.com
 
 <!---
